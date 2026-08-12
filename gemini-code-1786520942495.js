@@ -1,0 +1,1 @@
+const GAS_URL = "https://script.google.com/macros/s/복사한_아이디_값/exec";
